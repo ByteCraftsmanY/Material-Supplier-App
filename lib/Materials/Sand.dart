@@ -1,0 +1,17 @@
+import 'package:flutter/cupertino.dart';
+
+class Sand {
+  String status;
+  ImageProvider<Object> img;
+  String price1t;
+  String price10w;
+  String type;
+  String price6w;
+  Sand(
+      {this.status,
+      this.img,
+      this.price10w,
+      this.price1t,
+      this.price6w,
+      this.type});
+}

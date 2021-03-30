@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400493411815",
+    "project_id": "material-supplier-app",
+    "storage_bucket": "material-supplier-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400493411815:android:67994d4aa8a37446025142",
+        "android_client_info": {
+          "package_name": "com.example.material_supplier_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400493411815-6ds5qa0q4qchotpquoj2op0b7lr1jjvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2O0dcpbM4nigjrMLLZOhsYIykupMsCVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400493411815-6ds5qa0q4qchotpquoj2op0b7lr1jjvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
